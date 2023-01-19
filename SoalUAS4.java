@@ -4,7 +4,7 @@ public class SoalUAS4 {
         int i, j;
         for (i = 0; i < n; i++) {
             for (j = 2 * (n - i); j >= 0; j--) {
-                // Mambuat Jarak dari kiri sesuai
+                // Mambuat Jarak dari kiri
                 System.out.print(" ");
             }
             for (j = 0; j <= i; j++) {
